@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 750 hello == chmod 750 olleh
+chmod a+rwx, u, g-w, p-wx hello
