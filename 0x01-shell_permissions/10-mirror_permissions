@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod a+rwx,u-r,g-w,p-wxhello
+chmod a+rwx,u-r,g-w,p-wx
+hello
