@@ -1,0 +1,3 @@
+#How to switch a user#
+#!/bin/bash
+su betty
